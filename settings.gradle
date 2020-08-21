@@ -1,0 +1,4 @@
+include ':network'
+include ':ui'
+include ':app'
+rootProject.name = "Sample Hilt"
